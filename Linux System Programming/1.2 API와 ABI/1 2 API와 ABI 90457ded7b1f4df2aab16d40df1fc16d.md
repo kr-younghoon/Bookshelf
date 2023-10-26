@@ -14,11 +14,11 @@ Date: 2023년 9월 20일
 # 1.2.1 API
 
 - Origin
-    
-    ![Untitled](1%202%20API%E1%84%8B%E1%85%AA%20ABI%2090457ded7b1f4df2aab16d40df1fc16d/Untitled.png)
-    
+  
+    <img width="495" alt="Untitled" src="https://github.com/kr-younghoon/Bookshelf/assets/126774519/4514fdb3-13c9-42f6-b6b1-9c61cbc508f2">
 
 ### 정의
+
 
 API는 소프트웨어의 소스 코드 레벨에서 서로 인터페이스 하는 방식을 정의한다. 일반적으로 API의 표준 인터페이스는 함수이며, 상위 레벨의 소프트웨어에서 더 하위 레벨의 소프트웨어를 호출 할 수 있다. 예를 들면 화면에 글자를 출력하는 데 필요한 내용을 제공하는 함수의 집합을 API 라고 할 수 있겠다. API 는 그저 인터페이스를 정의하며 그 정의를 실제로 구현한 소프트웨어를 API 구현체 라고 한다.
 
@@ -40,9 +40,8 @@ API를 흔히 계약(contract)이라고 부른다. API는 쌍방 계약이 아�
     자세한 것은 링크를 통해 알 수 있고, 간략하게는 밑의 사진을 통해 보면 좋을꺼 같다.
     
     [High level software: All you need to know about it!](https://www.cliently.com/blog/high-level-software)
-    
-    ![Untitled](1%202%20API%E1%84%8B%E1%85%AA%20ABI%2090457ded7b1f4df2aab16d40df1fc16d/Untitled%201.png)
-    
+        <img width="485" alt="Untitled 1" src="https://github.com/kr-younghoon/Bookshelf/assets/126774519/fad88855-3779-423e-98eb-d0d16ab2225a">
+
 
 API의 구현체와 관계없이 그 API를 따르기만 한다면 성공적으로 컴파일된다.
 
